@@ -1,2 +1,2 @@
 # DrawFinder
-I'll add something better in the description in the future.
+for now we're editing the page's files to make them better.
