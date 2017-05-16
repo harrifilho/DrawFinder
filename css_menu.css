@@ -1,0 +1,528 @@
+#entrar {		
+			background-color:#873E94;
+			border: 1px solid #873E94;
+			font-family: Tw Cen MT Condensed;
+			color: #F3F3F3;		
+		}
+		
+		#menu {
+			position: fixed;
+			top: 0px;
+			left: 0px;
+			width: 100%;
+		}
+   
+		#menu ul {
+		    padding:0px;
+		    margin:0px;
+		    background-color:#0C0046;
+			font-family: Tw Cen MT Condensed;
+		    list-style:none;
+		}
+		
+		#menu ul li { display: inline; }
+		
+		#info {
+			position: absolute;
+			right: 30px;
+			top: 15px;
+		}
+		
+		#menu ul li a{
+		    padding: 8px 10px;
+		    display: inline-block;
+		}
+		
+		#logo {
+			font-family: Brush Script Std; 
+			color: white; 
+			font-size: 33px; 
+			text-shadow:#6e3184 2px -2px, 
+			#6e3184 -2px 2px, #6e3184 2px 2px,
+			#6e3184 -2px -2px;
+		 }
+		
+		form {
+			position: relative;
+			bottom: 5px;
+			left: 20px;
+			color: white;
+		}
+		
+		#menu a:hover{
+			background-color: #873E94;
+		}
+
+		#left_stuff {
+			position: fixed;
+			left: 0px;
+			top: 40px;
+			background-color: #72ACBD;
+			font-family: Tw Cen MT Condensed;
+			color: #97138F;
+			height: 100%;
+			width: 15%;
+		}
+		
+		#right_stuff {
+			position: fixed;
+			right: 0px;
+			top: 40px;
+			background-color: #72ACBD;
+			font-family: Tw Cen MT Condensed;
+			color: #97138F;
+			height: 100%;
+			width: 15%;
+		}
+		 
+		a:link {
+			color: white;
+		    background-color: transparent;
+		    text-decoration: none;
+			
+		}		
+		
+		#bgc {
+			background-color: #F3F3F3;
+		}
+		
+		h2.center_stuff {
+			text-align: center;
+		}
+		
+		#first_place {
+			position: relative;			
+			height: 210px;
+		}
+		
+		#first_place p {
+			position: relative;
+			bottom: 15%;
+		}
+		
+		#first_place img {	
+			position: relative;
+			left: 25%;
+			bottom: 20px;
+			border: 1px solid #873E94;
+			padding: 2px;
+		}
+		
+		i {
+			color: white;
+		}
+		
+		a.menu_items {
+			color: white;
+		}
+		
+		#other_places {
+			position: relative;
+			bottom: 20px;
+			left: 10px;			
+			width: 187px;
+			height: 285px;
+		}
+		
+		#imgrank2 {
+			position: relative;
+			left: 35px;
+			bottom: 55px;
+			border: 1px solid #873E94;
+		}
+		
+		#artist2 {
+			position: relative;
+			bottom: 47%;
+			left: 80%;
+		}
+		
+		#pos3 {
+			position: relative;
+			bottom: 100px;
+		}
+		
+		#imgrank3 {
+			position: relative;
+			left: 35px;
+			bottom: 155px;
+			border: 1px solid #873E94;
+		}
+		
+		#artist3 {
+			position: relative;
+			bottom: 83%;
+			left: 80%;
+		}
+		
+		#pos4 {
+			position: relative;
+			bottom: 215px;
+		}
+		
+		#imgrank4 {
+			position: relative;
+			left: 35px;
+			bottom: 270px;
+			border: 1px solid #873E94;
+		}
+		
+		#artist4 {
+			position: relative;
+			bottom: 123%;
+			left: 80%;
+		}
+		
+		#pos5 {
+			position: relative;
+			bottom: 325px;
+		}
+		
+		#imgrank5 {
+			position: relative;
+			left: 35px;
+			bottom: 380px;
+			border: 1px solid #873E94;
+		}
+		
+		#artist5 {
+			position: relative;
+			bottom: 163%;
+			left: 80%;
+		}
+		
+		p.inside_topics {
+			color: #97138F;
+			text-align: center
+		}
+		
+		h2.topics {
+			color: #97138F; 
+			text-align: left
+		}
+
+		.menu {
+			list-style: none;
+		}
+		
+		.menu a {
+			display: block;
+			padding: 3px;
+		}
+		
+		.menu li {
+			position: relative;
+		}
+		
+		.menu li:hover .submenu {
+			display: block;
+		}
+		
+		.submenu {
+			display: none;
+		}
+		
+		.submenu a:link {
+			text-decoration: none;
+			color: #F3F3F3;
+		}
+		
+		.topic {
+			font-size: 20px;
+		}
+		
+		#conteudo {
+            height: 50px;
+            width: 910px;
+			position: relative;
+			left: 25%;
+			top: 50px;
+			font-family: Tw Cen MT;
+       }
+       #estilo1{
+			background-color: #F3F3F3;
+			height: 300px;
+            width: 200px;
+			position: relative;
+			left: -290px;
+			top: 132px;
+			border: 3px solid #873E94;
+       }
+       #estilo2{
+			background-color: #F3F3F3;
+			height: 300px;
+            width: 200px;
+			position: relative;
+			left: 0px;
+			top: -174px;
+			border: 3px solid #873E94;
+       }
+
+       #estilo3{
+			background-color: #F3F3F3;
+			height: 300px;
+            width: 200px;
+			position: relative;
+			left: 300px;
+			top: -480px;
+			border: 3px solid #873E94;
+       }
+
+
+       #estilo1c{
+			background-color: #F3F3F3;
+			height: 300px;
+            width: 200px;
+			position: relative;
+			left: -290px;
+			top: 150px;
+			border: 3px solid #873E94;
+       }
+       #estilo2c{
+			background-color: #F3F3F3;
+			height: 300px;
+            width: 200px;
+			position: relative;
+			left: 0px;
+			top: -174px;
+			border: 3px solid #873E94;
+       }
+
+       #estilo3c{
+			background-color: #F3F3F3;
+			height: 300px;
+            width: 200px;
+			position: relative;
+			left: 300px;
+			top: -480px;
+			border: 3px solid #873E94;
+       }
+
+	   
+	   .topicText {
+			color: white;  
+			font-size: 20px;
+	   }
+	   
+	   #bigText {
+			color: #0c0046; 
+			font-size: 70px
+	   }
+	   
+	   .mais {
+			color: white;
+			font-size: 15px
+	   }
+	   
+	   .categImgFormat {
+			border: 2px solid #873E94
+	   }
+	   
+	   .by {
+			color: #0c0046;
+			font-size: 19px;
+	   }
+	   
+	   .author {
+			color: #72ACBD;
+			font-size: 19px;
+	   }
+	   
+	   .bigText {
+			color: #0c0046; 
+			font-size: 50px;
+	   }
+	   
+	   .topicTitleText {
+			color: #951d92;
+			font-size: 20px;
+	   }
+	   
+	   .BigEmilia-color {
+			color: #951d92;
+			font-size: 50px;
+	   }
+	   
+	   #form_cadastro {
+			position: relative;
+			top: 65px;
+			left: 35%;
+			height: 700px;
+			width: 575px;
+		}
+		
+		#form_cadastro { 
+			font-family: Tw Cen MT Condensed; 
+		}
+		
+		#form_cadastro h1 {
+			margin: 1px;
+			font-size: 500%;
+		}
+		
+		.emilia-color {
+			color: #873E94;
+		}
+		
+		.shiina-color {
+			color: #0C0046;
+		}
+		
+		#form_cadastro h2 {
+			margin: 1px;
+			font-size: 250%;
+		}
+		
+		#other {
+			position: relative;
+			left: 200px;
+			bottom: 120px;
+			width: 233px;
+		}
+		
+		#submit_button {		
+			background-color:#873E94;
+			border: 1px solid #873E94;
+			font-family: Tw Cen MT Condensed;
+			color: #F3F3F3;
+			float: right;
+		}
+		
+		#conteudoImg {
+            height: 900px;
+            width: 910px;
+			position: absolute;
+			left: 25%;
+			top: 50px;
+			font-family: Tw Cen MT;
+       }
+       
+       #internoConteudoImg{
+			height: 400px;
+            width: 400px;
+			position: relative;
+			left: 30px;
+			top: 20px;
+
+       }
+       
+       #acoesConteudo{
+			height: 40px;
+            width: 808px;
+			position: relative;
+			left: 30px;
+			top: 100px;
+			background-color: #c8e1e8;
+			Border-radius: 10px 10px; 
+       }
+       
+       #acoesConteudo ul li { display: inline; }
+       
+       #comentariosConteudo{
+			height: 300px;
+            width: 808px;
+			position: relative;
+			left: 30px;
+			top: 120px;
+			background-color: #c8e1e8;
+			Border-radius: 10px 10px; 
+       }
+       
+       #descricao{
+			height: auto;
+            width: 808px;
+			position: relative;
+			left: 30px;
+			top: 110px;
+			background-color:transparent;
+			border: 1px solid #873E94;
+       }
+	   
+	   .emilia-color-format {
+			color: #951d92;
+			font-size: 30px
+	   }
+	   
+	   .mashiro-color-format {
+			color: #72acbd; 
+			font-size: 25px
+	   }
+	   
+	   #giant-koro {
+			border: 4px solid #873E94;
+	   }
+	   
+	   #descriptionText {
+			margin: 0px;
+	   }
+	   
+	   #comment {
+			Border-radius: 10px 10px; 
+			width: 95%; 
+			padding: 12px 20px; 
+			margin: 8px 0; 
+			display: inline-block; 
+			border: 1px solid #ccc; 
+			border-radius: 4px; 
+			box-sizing: border-box;
+	   }
+
+        #sobre {
+            position: relative;
+			top: 65px;
+			left: 30%;
+			height: 160px;
+			width: 575px;
+        }
+        
+        #sobre { 
+			font-family: Tw Cen MT Condensed; 
+		}
+		
+		#sobre h1 {
+			margin: 1px;
+			font-size: 500%;
+		}
+
+        
+        #textSobre {
+            position: relative;
+			top: 40px;
+			left: 30%;
+			height: 200px;
+			width: 700px;
+        }
+        
+        #textSobreDF {
+            position: relative;
+			top: 65px;
+			left: 30%;
+			height: 200px;
+			width: 700px;
+        }
+        
+        #textSobreDF h2{
+            margin: 1px;
+			font-size: 160%;
+            font-weight: 900%;
+        }
+        
+        #textSobre h2{
+            margin: 1px;
+			font-size: 160%;
+            font-weight: 900%;
+        }
+        
+        .texto {
+            font-family: Tw Cen MT Condensed;
+            color: #75b0c0;
+            font-size: 20px;
+        }
+        
+        #contatos {
+            position: relative;
+			top: 65px;
+			left: 30%;
+			height: 160px;
+			width: 575px;
+        }
