@@ -1,2 +1,5 @@
 # DrawFinder
-I'll add something better in the description in the future.
+
+O projeto atual se encontra em "rascunhos".
+
+Quando o mesmo estiver 100% concluído ele será movido para o "master".
